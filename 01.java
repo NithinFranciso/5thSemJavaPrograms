@@ -23,7 +23,7 @@ public class distance
  	int x1,x2,y1,y2;
 	float d;
 	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-	System.out.println("Enter the Distance x1 x2 y1 y2");
+	System.out.println("Enter the Co-ordinates of (x1,x2) and (y1,y2) :");
 	x1=Integer.parseInt(br.readLine());
 	x2=Integer.parseInt(br.readLine());
 	y1=Integer.parseInt(br.readLine());
