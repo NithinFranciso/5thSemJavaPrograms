@@ -36,6 +36,6 @@ public class MathFunctions
      System.out.println("different = "+diff);
      System.out.println("product = "+pro);
      System.out.println("quotient = "+sum);
-     System.out.println("reminder = "+sum);
+     System.out.println("reminder = "+rem);
    }
  }
